@@ -6,7 +6,7 @@ Example projects ant resources:
 https://wiki.jenkins.io/display/JENKINS/Extend+Jenkins
 
 - Tutorial on how to create a basic Jenkins plugin:
-https://wiki.jenkins.io/display/JENKINS/Plugin+tutorial
+https://wiki.jenkins.io/display/JENKINS/Create+a+new+Plugin+with+a+custom+build+Step
 
 - Example:
 https://github.com/HPEbot/hello-world-plugin-2/blob/master/src/main/java/hudson/plugins/hello_world/HelloWorldBuilder.java
